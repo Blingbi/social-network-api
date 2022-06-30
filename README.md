@@ -2,7 +2,7 @@
 
 An API for a social network web application, where users can share their thoughts, react to friends' thoughts and create a friend list.
 
-###  : https://github.com/blingbi/social-network-api
+###   https://github.com/blingbi/social-network-api
 
 ### Walkthrough video 
 Coming SOon
